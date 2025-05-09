@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/articles/beauty/natural-makeup.html", "dest": "/articles/beauty/natural-makeup.html" }
+  ]
+}
